@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# Hi 👋, I'm Josh Rodarte
+---
+A Full-Stack Web Developer who likes solving problems in efficient ways.
+
 <!--
 **nocaremc/nocaremc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
